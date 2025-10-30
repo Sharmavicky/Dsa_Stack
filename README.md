@@ -8,11 +8,13 @@ Each implementation focuses on understanding stack behavior — **LIFO (Last In,
 ---
 
 ## 📂 Folder Overview
+```
 Dsa_Stack/
 ├── Stack.cpp # Implementation using List (custom linked list stack)
 ├── vectorStack.cpp # Implementation using STL vector
 ├── [other problem files] # Example: NextGreaterElement.cpp, ValidParentheses.cpp
 ├── README.md # You’re here
+```
 
 ---
 
@@ -54,6 +56,7 @@ Here are some of the problems and concepts explored in this folder 👇
 ## 🧪 How to Run
 
 If your project structure looks like this:
+```
 ProjectRoot/
 ├── DSA_Linked_List/
 │ ├── List.cpp
@@ -61,6 +64,7 @@ ProjectRoot/
 └── Dsa_Stack/
 ├── Stack.cpp
 └── README.md
+```
 
 ### ▶️ Compile and Run:
 ```bash
